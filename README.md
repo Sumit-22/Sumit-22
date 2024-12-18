@@ -6,7 +6,10 @@ Sumit-22/Sumit-22 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-📍 I live in Bhubaneswar, India <br>  -  I am currently working with technologies based on Android development. Technologies such as   Java, Kotlin, and XML.<br>  -  I usually work with Android frameworks, database management, and sensor-based applications. I create efficient, scalable, and user-friendly mobile applications.<br>  -  I specialize in Mobile App Development, Backend Integration, UI/UX Design for mobile platforms, and optimizing app performance.<br>  -  My Tech Stack: Android Studio, Room Database, Retrofit, Firebase, Jetpack Compose, Figma.<br>  -  Languages I know: Java, Kotlin, Python, XML.<br>💡 I am looking to collaborate on:-<br>     -     Android app development projects, especially those focusing on innovative use of sensors, location-based services, or real-time data integration.<br>    -      Building scalable and efficient mobile architectures using modern Android frameworks and tools.
+📍 I live in Bhubaneswar, India <br>  -  I am currently working with technologies based on Android development. Technologies such as   Java, Kotlin, and XML.<br>  -  I usually work with Android frameworks, database management, and sensor-based applications. I create efficient, scalable, and user-friendly mobile applications.<br>  -  I specialize in Mobile App Development, Backend Integration, UI/UX Design for mobile platforms, and optimizing app performance.<br>  -  My Tech Stack: Android Studio, Room Database, Retrofit, Firebase, Jetpack Compose, Figma.<br>  -  Languages I know: Java, Kotlin, Python, XML.
+## :--:
+##
+💡 I am looking to collaborate on:-<br>     -     Android app development projects, especially those focusing on innovative use of sensors, location-based services, or real-time data integration.<br>    -      Building scalable and efficient mobile architectures using modern Android frameworks and tools.
 
 
 ## 🌐 Socials:
